@@ -1,0 +1,33 @@
+.header {
+    background-color: brown;
+}
+
+.col-lg-3 {
+    background-color: aqua;
+    height: 40px;
+}
+
+.col-lg-9 {
+    background-color: rgb(25, 0, 255);
+    height: 40px;
+}
+
+.main {
+    background-color: black;
+    height: 500px;
+}
+
+.col-lg-8 {
+    background-color: aquamarine;
+    height: 500px;
+}
+
+.achivements {
+    background-color: black;
+    height: 100px;
+}
+
+.footer {
+    background-color: black;
+    height: 400px;
+}
