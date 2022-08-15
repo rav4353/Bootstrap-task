@@ -2,19 +2,19 @@
     background-color: brown;
 }
 
-.col-lg-3 {
-    background-color: aqua;
-    height: 40px;
-}
-
-.col-lg-9 {
-    background-color: rgb(25, 0, 255);
-    height: 40px;
-}
-
 .main {
     background-color: black;
     height: 500px;
+}
+
+.mentor {
+    background-color: rgb(255, 165, 165);
+    height: 300px;
+}
+
+.spec {
+    background-color: black;
+    height: 300px;
 }
 
 .col-lg-8 {
